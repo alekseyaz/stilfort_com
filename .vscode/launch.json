@@ -1,0 +1,32 @@
+{
+    "version": "0.2.0",
+    "configurations": [{
+            "name": "Listen for XDebug Win10",
+            "type": "php",
+            "request": "launch",
+            "port": 9000,
+            "log": true,
+            "externalConsole": false,
+            "pathMappings": {
+                "/var/www/html": "\\\\wsl$\\Ubuntu-20.04\\home\\aleksey\\projects\\stilfort_com\\public_html\\",
+            },
+            "ignore": [
+                "**/vendor/**/*.php"
+            ]
+        },
+        {
+            "name": "Listen for XDebug WSL",
+            "type": "php",
+            "request": "launch",
+            "port": 9000,
+            "log": true,
+            "externalConsole": false,
+            "pathMappings": {
+                "/var/www": "${workspaceFolder}/public_html",
+            },
+            "ignore": [
+                "**/vendor/**/*.php"
+            ]
+        },
+    ]
+}
