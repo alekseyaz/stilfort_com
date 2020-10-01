@@ -1,0 +1,203 @@
+<!ENTITY quote '&#34;'>
+<!ENTITY nbsp '&#160;'>
+<!ENTITY middot '&#183;'>
+<!ENTITY reg '&#174;'>
+<!ENTITY copy '&#169;'>
+<!ENTITY raquo '&#187;'>
+<!ENTITY laquo '&#171;'>
+
+
+
+<!ENTITY sect "§" >
+<!ENTITY copy "©">
+<!ENTITY laquo "«">
+<!ENTITY reg "®">
+<!ENTITY deg "°">
+<!ENTITY plusmn "±">
+<!ENTITY para "¶">
+<!ENTITY raquo "»">
+<!ENTITY times "×">
+
+
+
+<!ENTITY bull "•">
+<!ENTITY hellip "…">
+
+
+
+<!ENTITY ndash "–">
+<!ENTITY mdash "—">
+<!ENTITY lsquo "‘">
+<!ENTITY rsquo "’">
+<!ENTITY sbquo "‚">
+<!ENTITY ldquo "“">
+<!ENTITY rdquo "”">
+<!ENTITY bdquo "„">
+<!ENTITY lsaquo "‹">
+<!ENTITY rsaquo "›" >
+<!ENTITY euro "€">
+
+
+
+<!ENTITY default_curency "руб.">
+<!ENTITY default_mesure "шт.">
+
+<!ENTITY property_price_empty "цена">
+
+<!ENTITY enter-captcha "Введите код с картинки">
+<!ENTITY reset-captcha "перезагрузить код">
+
+<!ENTITY login "Логин">
+<!ENTITY password "Пароль">
+<!ENTITY log-in "Войти">
+<!ENTITY log-out "Выход">
+<!ENTITY office "Кабинет">
+<!ENTITY registration "Регистрация">
+<!ENTITY forget-password "Забыли пароль?">
+<!ENTITY forget-button "Выслать пароль">
+<!ENTITY on-fast-edit "Включить быстрое редактирование">
+<!ENTITY to-admin "Перейти в администрирование">
+<!ENTITY forget-message "На e-mail адрес, указанный Вами при регистрации, был выслан пароль.">
+<!ENTITY personal-info "Персональная информация">
+
+<!ENTITY password-confirm "Подтвердите пароль">
+<!ENTITY e-mail "E-mail">
+<!ENTITY name "Name">
+<!ENTITY registration-do "Зарегистрироваться">
+<!ENTITY registration-done "Регистрация прошла успешно.">
+<!ENTITY registration-error "Произошла ошибка.">
+<!ENTITY registration-error-user-exists "Такой пользователь уже существует.">
+<!ENTITY registration-activation-note "Через несколько минут на ваш почтовый ящик придет письмо со ссылкой на активацию аккаунта.">
+<!ENTITY account-activated "Аккаунт успешно активирован.">
+<!ENTITY activation-error "Невозможно восстановить пароль: неверный код активации.">
+<!ENTITY user-reauth "Вы ввели неверный логин или пароль. Проверьте раскладку клавиатуры, не нажата ли клавиша «Caps Lock» и попробуйте ввести логин и пароль ещё раз:">
+<!ENTITY save-changes "Сохранить изменения">
+<!ENTITY user-not-permitted "Ваших прав недостаточно для просмотра данной страницы">
+
+
+<!ENTITY system-enter-captcha "Введите текст с картинки">
+<!ENTITY system_numpages_tonext_link "→">
+<!ENTITY system_numpages_toprev_link "←">
+
+
+<!ENTITY content_content_empty_name "Название страницы">
+<!ENTITY content_content_empty_h1 "Заголовок страницы">
+<!ENTITY content_content_empty_content "Содержание страницы">
+<!ENTITY content_notfound_h1 "Страница не найдена">
+<!ENTITY content_sitemap_h1 "Карта сайта">
+
+<!ENTITY empty-photo "/images/nofoto.jpg">
+<!ENTITY show-photo "Показать все фотографии">
+
+<!ENTITY news_rubric_empty_name "Название лены новостей">
+<!ENTITY news_rubric_empty_h1 "Заголовок лены новостей">
+<!ENTITY news_rubric_empty_readme "Описание лены новостей">
+<!ENTITY news_rubric_archive_link "Архив новостей">
+
+<!ENTITY news_item_empty_name "Название новости">
+<!ENTITY news_item_empty_h1 "Заголовок новости">
+<!ENTITY news_item_anons "Анонс новости">
+<!ENTITY news_item_empty_content "Содержание страницы">
+<!ENTITY news_item_publish_time "Дата публикации новости">
+
+
+<!ENTITY catalog_category_empty_name "Название раздела">
+<!ENTITY catalog_category_empty_h1 "Заголовок раздела">
+<!ENTITY catalog_category_empty_descr "Описание раздела">
+
+<!ENTITY catalog_object_empty_name "Название товара">
+<!ENTITY catalog_object_empty_h1 "Название товара">
+<!ENTITY catalog_object_empty_descr "Описание раздела">
+
+
+<!ENTITY users_activate_h1 "Активация аккаунта">
+<!ENTITY users_activate_content "Ваш аккаунт успешно активирован.">
+
+<!ENTITY users_registrate_h1 "Регистрация">
+<!ENTITY users_registrate_password_confirm_title "Подтвердите пароль">
+<!ENTITY users_registrate_password_confirm_name "password_confirm">
+<!ENTITY users_registrate_submit "Зарегистрироваться">
+
+<!ENTITY users_registrate_do_h1 "Регистрация завершена">
+<!ENTITY users_registrate_do_content_activate "Через несколько минут на ваш почтовый ящик придет письмо со ссылкой на активацию аккаунта.">
+
+<!ENTITY users_login_h1 "Авторизация">
+
+<!ENTITY users_settings_h1 "Изменение настроек пользователя">
+
+<!ENTITY search_search_do_h1 "Результаты поиска">
+<!ENTITY search_search_do_title "По вашему запросу &quot;">
+<!ENTITY search_search_do_nothing "&quot; ничего не найдено.">
+<!ENTITY search_search_do_founded "&quot; найдено товаров: ">
+
+
+<!ENTITY emarket_cart_h1 "Корзина товаров">
+<!ENTITY emarket_purchase_h1 "Оформление заказа">
+<!ENTITY emarket_purchase_successful "Спасибо за заказ, менеджер нашей компании свяжется с вами в ближайшее время, для уточнения деталей">
+<!ENTITY emarket_purchase_failed "Не удалось совершить покупку">
+
+<!ENTITY search-default-text "Поиск">
+
+
+<!ENTITY delivery-agent "Выберите способ доставки">
+<!ENTITY payment-type "Выберите способ оплаты" >
+<!ENTITY payment-redirect-text "Нажмите кнопку 'Оплатить' для перехода на сайт платежной системы" >
+
+
+<!ENTITY compare-title "Сравнение товаров">
+<!ENTITY compare-submit "Сравнить">
+<!ENTITY compare-add "Добавить к сравнению">
+<!ENTITY compare-del "Удалить из сравнения">
+<!ENTITY basket-add "Добавить в корзину">
+<!ENTITY basket-add-short "Добавить">
+<!ENTITY clear-basket "Очистить корзину">
+<!ENTITY purchase-one-click "Купить в 1 клик">
+<!ENTITY price "Цена">
+
+<!ENTITY delete "Удалить">
+
+
+<!ENTITY begin-purchase "Оформить">
+<!ENTITY continue "Продолжить">
+<!ENTITY choose-delivery-address "Выберите адрес доставки">
+<!ENTITY new-delivery-address "Новый адрес доставки">
+<!ENTITY self-delivery  "Самовывоз">
+<!ENTITY delivery-agent "Способ доставки">
+<!ENTITY choose-legal_person "Выберите юридическое лицо">
+<!ENTITY new-legal-person "Новое юридическое лицо">
+<!ENTITY emarket-order-failed "Не удалось совершить покупку">
+<!ENTITY emarket-order-successful "Заказ успешно добавлен.">
+
+<!ENTITY persinfo "Персональная информация">
+<!ENTITY myorder "Мои заказы">
+<!ENTITY users_ordersList_h1 "Список заказов">
+<!ENTITY order-number "№ Заказа">
+<!ENTITY order-status "Статус">
+<!ENTITY order-sum "Сумма">
+<!ENTITY number "№">
+<!ENTITY date-from "от">
+<!ENTITY date-from-1 "с">
+
+
+<!ENTITY newsletters "Рассылки">
+<!ENTITY subscribe "Подписаться">
+<!ENTITY dispatch-you-to "Вы подписались на рассылки">
+<!ENTITY dispatch-you-from "Вы отписались от рассылок">
+<!ENTITY dispatch-unsubscribe "Если Вы не хотите получать нашу рассылку, Вы можете отказаться от подписки, перейдя по">
+<!ENTITY dispatch-unsubscribe-part "ссылке">
+
+
+<!ENTITY pay-by-bonuses "Оплата бонусами:">
+<!ENTITY can-use-bonuses "Вы можете оплатить Ваш заказ накопленными бонусами.">
+<!ENTITY available-bonuses "Доступно бонусов на сумму">
+<!ENTITY spend-bonuses "Оплатить бонусами">
+<!ENTITY pay "Оплатить">
+<!ENTITY in-progress "В процессе">
+<!ENTITY credit-request "Оформление заявки на получение кредита">
+<!ENTITY credit-canceled "Заявка на кредит была отклонена">
+<!ENTITY errors "Ошибки">
+<!ENTITY error "Ошибка">
+<!ENTITY select-payment "К выбору оплаты">
+<!ENTITY make-bill "Выписать счет">
+<!ENTITY order-error "Произошла ошибка при создании заказа">
+<!ENTITY order-summ "Заказано товаров на сумму">

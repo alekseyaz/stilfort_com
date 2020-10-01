@@ -15,6 +15,11 @@ node_modules
 dist/
 yarn.lock
 package-lock.json
-/public_html/images*
-laradock_*
-public_html*
+
+
+# UMI.CMS
+public_html/classes/components/exchange/logs
+public_html/errors/
+public_html/files/
+public_html/images/
+public_html/sys-temp/
