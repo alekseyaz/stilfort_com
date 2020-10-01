@@ -6,7 +6,7 @@
 # .idea
 # .vscode
 .github
-.env
+# .env
 .data
 ehthumbs.db
 Thumbs.db
