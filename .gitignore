@@ -1,25 +1,18 @@
 .DS_Store
 .DS_Store?
 ._*
-.Spotlight-V100
 .Trashes
-# .idea
-# .vscode
+.idea
+.vscode
 .github
-# .env
 .data
-ehthumbs.db
 Thumbs.db
-_config.yml
-node_modules
-dist/
-yarn.lock
-package-lock.json
 
 
 # UMI.CMS
 public_html/classes/components/exchange/logs
-public_html/errors/
 public_html/files/
+public_html/sys-temp/*
+!public_html/sys-temp/1c_import/
 public_html/images/
-public_html/sys-temp/
+public_html/errors/

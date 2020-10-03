@@ -213,6 +213,16 @@ TODO: // Write here your own templates
 			<value><xsl:value-of select="Значение"/></value>
 		</property>
 	</xsl:template>
+
+	<xsl:template match="Товар/Картинка[position() &gt; 1]">
+		<xsl:if test="string-length(.)">
+			<property name="photo{position()}" title="Картинка{position()}" type="img_file" visible="visible" allow-runtime-add="1">
+				<type data-type="img_file"/>
+				<title>Картинка</title>
+				<value>./images/cms/data/<xsl:value-of select="."/></value>
+   			</property>
+  		</xsl:if>
+	</xsl:template>
 	
 
 	

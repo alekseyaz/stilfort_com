@@ -47,7 +47,8 @@ sudo apt install unzip
 > zip -v  
 unzip -v
 
-> unzip public_html.zip -d  
+> unzip public_html.zip -d  ~/projects/stilfort_com
+> zip -r -9 public_html.zip ~/projects/stilfort_com
 
 ### host
 %windir%\system32\drivers\etc\hosts
